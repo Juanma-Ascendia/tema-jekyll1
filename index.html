@@ -2,7 +2,8 @@
 layout: page
 ---
 <div class="container">
-<h1>Listado de entradas del blog</h1>
+
+	<h1>Listado de entradas del blog</h1>
 
 	{% for post in site.posts %}
 	<div>
@@ -12,5 +13,6 @@ layout: page
 		    Leer más
 		</a>
 	</div>
-{% endfor %}
+	{% endfor %}
+	
 </div>
