@@ -10,3 +10,6 @@ body{
 .cabecera a{
 	text-decoration: none;
 }
+.cabecera a:hover{
+	color: gray;
+}
