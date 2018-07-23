@@ -1,0 +1,12 @@
+body{
+	font-family: courier, arial;
+}
+.cabecera{
+	height: 200px;
+	font-size: 24px;
+	background-color: lightblue;
+	color: white;
+}
+.cabecera a{
+	text-decoration: none;
+}
