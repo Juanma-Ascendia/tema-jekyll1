@@ -23,3 +23,9 @@ h2 {
 	color: #ff6699;
 	font-size: 25px;
 }
+.pie{
+	height: 300px;
+	font-size: 24px;
+	background-color: lightblue;
+	color: white;
+}
