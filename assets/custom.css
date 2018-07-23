@@ -13,3 +13,6 @@ body{
 .cabecera a:hover{
 	color: gray;
 }
+h1{
+	background-color: #4d94ff;
+}

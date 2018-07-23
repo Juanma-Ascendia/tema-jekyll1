@@ -1,7 +1,7 @@
 ---
 title: Martes al fin
 layout: post
-permalink: martes
+permalink: martes-tarde
 ---
 
 ### Erase una vez un Martes...
