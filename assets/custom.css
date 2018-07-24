@@ -2,7 +2,7 @@ body{
 	font-family: courier, arial;
 }
 .cabecera{
-	height: 200px;
+	height: 100px;
 	font-size: 24px;
 	background-color: lightblue;
 	color: white;
@@ -25,8 +25,11 @@ h2 {
 	font-size: 25px;
 }
 .pie{
-	height: 300px;
+	height: 200px;
 	font-size: 20px;
 	background-color: lightblue;
 	color: white;
+}
+.pie li{
+	display: inline-block;
 }
