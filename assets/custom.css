@@ -24,10 +24,12 @@ h2 {
 	color: #ff6699;
 	font-size: 25px;
 }
-.pie{
+.franja{
 	height: 120px;
-	font-size: 20px;
 	background-color: lightblue;
+}
+.pie{	
+	font-size: 20px;	
 	color: white;
 }
 .pie li{
