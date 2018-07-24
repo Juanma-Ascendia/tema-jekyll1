@@ -33,4 +33,5 @@ h2 {
 }
 .pie li{
 	display: inline-block;
+	text-align: center;
 }
