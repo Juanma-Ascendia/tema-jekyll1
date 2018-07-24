@@ -14,8 +14,7 @@ body{
 	color: gray;
 }
 h1{
-	background-color: #e6f7ff;
-	color: #4d94ff;
+	background-color: #e6f7ff;	
 	font-size: 50px;
 	text-align: center;
 }
@@ -25,7 +24,7 @@ h2 {
 	font-size: 25px;
 }
 .franja{
-	height: 80px;
+	height: 100px;
 	background-color: lightblue;
 }
 .pie{	
