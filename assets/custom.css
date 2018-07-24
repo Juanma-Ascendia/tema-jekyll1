@@ -30,8 +30,8 @@ h2 {
 .pie{	
 	font-size: 20px;	
 	color: white;
+	text-align: center;
 }
 .pie li{
 	display: inline-block;
-	text-align: center;
 }
